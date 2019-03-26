@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CounterShockKotlin</string>
+
+    <string name="key_stored_images">key_stored_images</string>
+    <string name="key_photo_id">key_photo_id</string>
+    <string name="key_stored_audios">key_stored_audios</string>
+    <string name="key_audio_id">key_audio_id</string>
+
+    <string name="key_next_media_id">key_next_media_id</string>
+</resources>
