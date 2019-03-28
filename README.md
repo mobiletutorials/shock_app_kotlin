@@ -5,4 +5,4 @@ Shock App:
 https://play.google.com/store/apps/details?id=com.tsgotem.shock
 
 Udemy Course:
-https://www.udemy.com/draft/2291113/
+https://www.udemy.com/shock-app-clone-in-kotlin/
